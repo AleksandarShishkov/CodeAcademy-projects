@@ -1,0 +1,16 @@
+{
+    "refuel_events": {
+        "1": {
+            "id": 1,
+            "date": "07\/03\/2023",
+            "distance": "400",
+            "total_odo": "20000",
+            "fuel_quantity": "15",
+            "fuel_amount": "3.50",
+            "total_price": "53",
+            "gas_station_product": "A95",
+            "gas_station_name": "OMV",
+            "driving_type": "\u0418\u0437\u0432\u044a\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u043e"
+        }
+    }
+}
